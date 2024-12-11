@@ -1,4 +1,4 @@
-package inheritance.example_2;
+package OOPS.inheritance.example_2;
 
 public class Example2 {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class Example2 {
     }
 }
 
-//Example for  multi-level inheritance
+//Example for  multi-level OOPS.inheritance
 class A {
     public A(){
         System.out.println("A");

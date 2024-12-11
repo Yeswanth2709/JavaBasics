@@ -1,4 +1,4 @@
-package inheritance.example_4;
+package OOPS.inheritance.example_4;
 
 public class Example4 {
     public static void main(String[] args) {
